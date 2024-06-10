@@ -1,0 +1,17 @@
+D:\E-Commerce\E_BLL\bin\Debug\net8.0\E_BLL.deps.json
+D:\E-Commerce\E_BLL\bin\Debug\net8.0\E_BLL.runtimeconfig.json
+D:\E-Commerce\E_BLL\bin\Debug\net8.0\E_BLL.dll
+D:\E-Commerce\E_BLL\bin\Debug\net8.0\E_BLL.pdb
+D:\E-Commerce\E_BLL\obj\Debug\net8.0\E_BLL.csproj.AssemblyReference.cache
+D:\E-Commerce\E_BLL\obj\Debug\net8.0\E_BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Commerce\E_BLL\obj\Debug\net8.0\E_BLL.AssemblyInfoInputs.cache
+D:\E-Commerce\E_BLL\obj\Debug\net8.0\E_BLL.AssemblyInfo.cs
+D:\E-Commerce\E_BLL\obj\Debug\net8.0\E_BLL.csproj.CoreCompileInputs.cache
+D:\E-Commerce\E_BLL\obj\Debug\net8.0\E_BLL.dll
+D:\E-Commerce\E_BLL\obj\Debug\net8.0\refint\E_BLL.dll
+D:\E-Commerce\E_BLL\obj\Debug\net8.0\E_BLL.pdb
+D:\E-Commerce\E_BLL\obj\Debug\net8.0\E_BLL.genruntimeconfig.cache
+D:\E-Commerce\E_BLL\obj\Debug\net8.0\ref\E_BLL.dll
+D:\E-Commerce\E_BLL\bin\Debug\net8.0\E_DAL.dll
+D:\E-Commerce\E_BLL\bin\Debug\net8.0\E_DAL.pdb
+D:\E-Commerce\E_BLL\obj\Debug\net8.0\E_BLL.csproj.Up2Date
